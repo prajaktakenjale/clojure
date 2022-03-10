@@ -1,0 +1,1 @@
+["^ ","~$mytestfn",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[2]],"~:name","^0","~:ns","~$mqtt-test.mytestfn","~:top-ns","^7","~:arities",["^ ","~i2",["^ ","~:ret","~:number"]]],"~:filename","/home/test/work/learn/clojure/test-project/mqtt-test/src/mqtt_test/testfn.clj"]

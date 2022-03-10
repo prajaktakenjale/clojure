@@ -1,0 +1,1 @@
+["^ ","~$add-default-user",["^ ","~:row",6,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$dbtest.mongodb","~:top-ns","^7"],"~$add-user",["^ ","^1",10,"^2",1,"^3",["^4",[1]],"^5","^9","^6","^7","^8","^7"],"~:filename","/home/test/work/learn/clojure/test-project/mqtt_sub/src/mqtt_sub/mongodb.clj"]
